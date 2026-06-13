@@ -1,2 +1,27 @@
-docs/
+# 虚拟环境
 venv/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+
+# 打包产物
+dist/
+build/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Claude
+.claude/
+
+docs/
